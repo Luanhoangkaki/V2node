@@ -657,6 +657,8 @@ github.com/HdrHistogram/hdrhistogram-go v1.1.0/go.mod h1:yDgFjdqOqDEKOvasDdhWNXY
 github.com/HdrHistogram/hdrhistogram-go v1.1.2/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
 github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c/go.mod h1:X0CRv0ky0k6m906ixxpzmDRLvX58TFUKS2eePweuyxk=
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
+github.com/Luanhoangkaki/xray-core v0.0.0-20261108141839-0b50437f060d h1:HHSvR0I1aOIgAVe0/q3R77OEoDfoOevYtx8f1AzqZNU=
+github.com/Luanhoangkaki/xray-core v0.0.0-20261108141839-0b50437f060d/go.mod h1:DS4NUbvQLPqcaMAh03w9pzYk09rGu+Ylwr33FO2lA3A=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/sarama v1.30.1/go.mod h1:hGgx05L/DiW8XYBXeJdKIN6V2QUy2H6JqME5VT1NLRw=
@@ -1718,8 +1720,6 @@ github.com/wlynxg/anet v0.0.5 h1:J3VJGi1gvo0JwZ/P1/Yc/8p63SoW98B5dHkYDmpgvvU=
 github.com/wlynxg/anet v0.0.5/go.mod h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA=
 github.com/wyx2685/REALITY v0.0.0-20261102081311-25ea3c0fa255 h1:Rxt7jZsxrTa7FDZtanNXZi4j5rewRBkvF+FWExH98VM=
 github.com/wyx2685/REALITY v0.0.0-20261102081311-25ea3c0fa255/go.mod h1:ptlSkJ8k/7IDauNH0SA96JPOo+nYGLTv2Y3UMpwvAsY=
-github.com/wyx2685/xray-core v0.0.0-20261105071511-0061c59f331a h1:O8O+vnAqvt05f61Fejwk35XnVM8Li7c86F4kJLoT690=
-github.com/wyx2685/xray-core v0.0.0-20261105071511-0061c59f331a/go.mod h1:DS4NUbvQLPqcaMAh03w9pzYk09rGu+Ylwr33FO2lA3A=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
 github.com/xdg-go/scram v1.0.2/go.mod h1:1WAq6h33pAW+iRreB34OORO2Nf7qel3VV3fjBj+hCSs=
 github.com/xdg-go/scram v1.1.2/go.mod h1:RT/sEzTbU5y00aCK8UOx6R7YryM0iF1N2MOmC3kKLN4=
